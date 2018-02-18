@@ -1,4 +1,4 @@
-pragma solidity 0.4.15;
+pragma solidity ^0.4.15;
 
 
 /// @title Test token contract - Allows testing of token transfers with multisig wallet.
@@ -13,8 +13,8 @@ contract TestToken {
     /*
      *  Constants
      */
-    string constant public name = "Test Token";
-    string constant public symbol = "TT";
+    string constant public name = "Redhio Test Token";
+    string constant public symbol = "RTT";
     uint8 constant public decimals = 1;
 
     /*
