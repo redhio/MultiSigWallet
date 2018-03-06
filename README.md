@@ -30,8 +30,8 @@ Being used by
 Install
 -------------
 ```
-git clone https://github.com/gnosis/MultiSigWallet.git
-cd MultiSigWallet
+git clone https://github.com/redhio/Redhio-MultiSigWallet.git
+cd Redhio-MultiSigWallet
 npm install
 ```
 
