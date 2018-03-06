@@ -11,13 +11,13 @@ var txDefaultOrig =
   wallet: "injected",
   defaultChainID: null,
   // Mainnet
-  walletFactoryAddress: "0x6e95c8e8557abc08b46f3c347ba06f8dc012763f",
+  walletFactoryAddress: "0x3F8dE2E1322eBE6d36a7b66A877bFe3853cD3C32",
   ledgerAPI: "http://localhost:" + ledgerPort,
   tokens: [
     {
-      'address': '0x6810e776880c02933d47db1b9fc05908e5386b96',
-      'name': 'Gnosis',
-      'symbol': 'GNO',
+      'address': '0x7D82937Ba88b7Ac2F4cB380d0B338D898dBA5068',
+      'name': 'GPU Miner',
+      'symbol': 'GPU',
       'decimals': 18
     },
     {
